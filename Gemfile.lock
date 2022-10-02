@@ -15,7 +15,7 @@ GEM
     coffee-script-source (1.11.1)
     colorator (1.1.0)
     commonmarker (0.17.13)
-      ruby-enum (~> 0.5)
+      ruby-enum (~> 0.23.6)
     concurrent-ruby (1.1.7)
     dnsruby (1.61.4)
       simpleidn (~> 0.1)
